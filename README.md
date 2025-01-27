@@ -1,2 +1,4 @@
 # 2025-01-26-learning-about-version-control
-Solving merge conflicts takes conscious effort, but I can do it!
+Version control helps me to track changes easily.
+
+Resolving merge conflicts is frustrating.
